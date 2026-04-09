@@ -13,5 +13,5 @@
 - No full project copy-paste
 
 ## 💡 Tip
-If API is hard, simulate data manually./n
-You may use any API from this repo in any theme if it improves creativity.
+- If API is hard, simulate data manually.
+- You may use any API from this repo in any theme if it improves creativity.
